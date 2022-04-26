@@ -1,0 +1,12 @@
+{
+	"current_version": "1.0.0",
+	"BPM_version": "0.1.0",
+	"versions": {
+		"1.0.0": {
+			"dependencies": []
+		},
+		"0.0.1": {
+			"dependencies": []
+		},
+	}
+}
