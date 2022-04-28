@@ -1,9 +1,39 @@
 {
-  "description": "I made this, its very cool and does good things. I made this, its very cool and does good things. I made this, its very cool and does good things. I made this, its very cool and does good things. I made this, its very cool and does good things. I made this, its very cool and does good things.",
+  "description": "I made this, its very cool and does good things. I made this, its very cool and does good things. I made this, its very cool and does good things. I made this, its very cool and does good things. I made this, its very cool and does good things. I made this, its very cool and does good things. I made this, its very cool and does good things. I made this, its very cool and does good things. I made this, its very cool and does good things. I made this, its very cool and does good things. I made this, its very cool and does good things. I made this, its very cool and does good things. I made this, its very cool and does good things. I made this, its very cool and does good things. I made this, its very cool and does good things. I made this, its very cool and does good things.",
   "creator": "HeydoubleU",
   "open": true,
   "versions": {
-		"3.0.0": {
+	  	"8.0.0": {
+			"release_notes": "new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow",
+			"date": "April 28, 2022",
+			"by": "HeydoubleU"
+			
+		},
+	  	"7.0.0": {
+			"release_notes": "new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow",
+			"date": "April 28, 2022",
+			"by": "HeydoubleU"
+			
+		},
+		"6.0.0": {
+			"release_notes": "new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow",
+			"date": "April 28, 2022",
+			"by": "HeydoubleU"
+			
+		},
+	  	"5.0.0": {
+			"release_notes": "new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow",
+			"date": "April 28, 2022",
+			"by": "HeydoubleU"
+			
+		},
+	  	"4.0.0": {
+			"release_notes": "new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow",
+			"date": "April 28, 2022",
+			"by": "HeydoubleU"
+			
+		},
+	  	"3.0.0": {
 			"release_notes": "new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow",
 			"date": "April 28, 2022",
 			"by": "HeydoubleU"
