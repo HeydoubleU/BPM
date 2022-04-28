@@ -1,0 +1,26 @@
+{
+	"current_version": "1.0.0",
+	"BPM_version": "0.1.0",
+	"versions": {
+		"1.0.0": {
+			"current": false,
+			"dependencies": []
+		},
+		"1.2.0": {
+			"current": false,
+			"dependencies": []
+		},
+		"1.1.0": {
+			"current": true,
+			"dependencies": []
+		},
+		"0.2.0": {
+			"current": true,
+			"dependencies": [["test-pack3", "0"], ["test-pack4", "1"]]
+		},
+		"0.0.1": {
+			"current": false,
+			"dependencies": []
+		}
+	}
+}
