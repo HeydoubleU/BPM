@@ -6,9 +6,7 @@
 	"versions": {
 		"1.0.0": {
 			"current": false,
-			"dependencies": [],
-			"date": "April 28, 2022",
-			"by": "HeydoubleU"
+			"dependencies": []
 		},
 		"1.2.0": {
 			"current": false,
