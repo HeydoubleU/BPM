@@ -3,7 +3,19 @@
   "creator": "HeydoubleU",
   "open": true,
   "versions": {
-		"1.0.0": {
+		"3.0.0": {
+			"release_notes": "new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow",
+			"date": "April 28, 2022",
+			"by": "HeydoubleU"
+			
+		},
+	  	"2.0.0": {
+			"release_notes": "new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow",
+			"date": "April 28, 2022",
+			"by": "HeydoubleU"
+			
+		},
+	  	"1.0.0": {
 			"release_notes": "new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow new stuff wow",
 			"date": "April 28, 2022",
 			"by": "HeydoubleU"
