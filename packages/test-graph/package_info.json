@@ -1,0 +1,12 @@
+{
+    "creator": "Heydo",
+    "current_version": "1.0",
+    "open": false,
+    "packager_version": "0.1.0",
+    "versions": {
+        "1.0": {
+            "current": true,
+            "dependencies": []
+        }
+    }
+}
