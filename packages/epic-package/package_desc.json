@@ -1,0 +1,24 @@
+{
+    "creator": {
+        "name": "hyuu",
+        "packages": [
+            "AxB",
+            "epic-package"
+        ]
+    },
+    "description": "Publisher has not added a description",
+    "open": false,
+    "versions": {
+        "1.0": {
+            "by": {
+                "name": "hyuu",
+                "packages": [
+                    "AxB",
+                    "epic-package"
+                ]
+            },
+            "date": "May 02, 2022",
+            "release_notes": "Publisher has not added release notes"
+        }
+    }
+}
