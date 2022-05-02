@@ -1,0 +1,4 @@
+{
+  "version": "0.1.0",
+  "reload_script": "from importlib import reload\n\nimport BPM\nimport BPM.common\nimport BPM.threads\nimport BPM.IO\nimport BPM.UI\n\nreload(BPM)\nreload(BPM.common)\nreload(BPM.threads)\nreload(BPM.IO)\nreload(BPM.UI)\n\nBPM.start()"
+}
