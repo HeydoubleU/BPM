@@ -1,6 +1,6 @@
 {
     "creator": "hyuu",
-    "current_version": "1.1",
+    "current_version": "1.2",
     "open": false,
     "packager_version": "0.1.0",
     "versions": {
@@ -9,6 +9,10 @@
             "dependencies": []
         },
         "1.1": {
+            "current": false,
+            "dependencies": []
+        },
+        "1.2": {
             "current": true,
             "dependencies": []
         }
