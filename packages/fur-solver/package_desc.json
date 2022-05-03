@@ -1,0 +1,12 @@
+{
+    "creator": "hyuu",
+    "description": "Publisher has not added a description",
+    "open": false,
+    "versions": {
+        "1.0": {
+            "by": "hyuu",
+            "date": "May 02, 2022",
+            "release_notes": "Initial release"
+        }
+    }
+}
