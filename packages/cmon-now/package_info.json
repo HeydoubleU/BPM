@@ -1,0 +1,12 @@
+{
+    "creator": "hyuu",
+    "current_version": "1.10",
+    "open": false,
+    "packager_version": "0.1.0",
+    "versions": {
+        "1.10": {
+            "current": true,
+            "dependencies": []
+        }
+    }
+}
