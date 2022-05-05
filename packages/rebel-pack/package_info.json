@@ -1,0 +1,12 @@
+{
+    "creator": "HeydoubleU",
+    "current_version": "0.4.1",
+    "open": false,
+    "packager_version": "0.3",
+    "versions": {
+        "0.4.1": {
+            "current": true,
+            "dependencies": []
+        }
+    }
+}
