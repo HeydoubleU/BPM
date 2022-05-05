@@ -1,6 +1,6 @@
 {
     "creator": "HeydoubleU",
-    "description": "Publisher has not added a description",
+    "description": "Rebel Pack library in form of a BPM package. This can safely be installed along side the original Rebel Pack as they'll each be treated as a separate set of compounds. Using this version however means you can create packages that utilizing this library, and it will get automatically included as a dependency.",
     "open": false,
     "versions": {
         "0.4.1": {
