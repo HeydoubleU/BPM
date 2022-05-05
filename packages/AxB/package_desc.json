@@ -1,6 +1,6 @@
 {
     "creator": "hyuu",
-    "description": "Publisher has not added a description",
+    "description": "Convenience node for multiplying values/data by a constant",
     "open": false,
     "versions": {
         "1.0": {
