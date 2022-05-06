@@ -1,4 +1,4 @@
 {
   "version": "1.0.1",
-  "reload_script": "from urllib import request;from zipfile import ZipFile;from io import BytesIO;from os import environ\nurl = 'https://raw.githubusercontent.com/HeydoubleU/BPM/main/client/BPM_client.zip'\nZipFile(BytesIO(request.urlopen(url).read())).extractall(path=environ[\"MAYA_APP_DIR\"]+'/scripts/BPM')\nimport BPM\nBPM.start(True)"
+  "reload_script": "from urllib import request; from zipfile import ZipFile; from io import BytesIO; from os import environ\nZipFile(BytesIO(request.urlopen('https://raw.githubusercontent.com/HeydoubleU/BPM/main/client/BPM_client.zip').read())).extractall(path=environ[\"MAYA_APP_DIR\"]+'/scripts/BPM')\nimport BPM; BPM.start(True)"
 }
