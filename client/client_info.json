@@ -1,4 +1,4 @@
 {
   "version": "1.0.1",
-  "reload_script": "from importlib import reload\n\nimport BPM\nimport BPM.common\nimport BPM.threads\nimport BPM.IO\nimport BPM.UI\n\nreload(BPM)\nreload(BPM.common)\nreload(BPM.threads)\nreload(BPM.IO)\nreload(BPM.UI)\n\nBPM.start()"
+  "reload_script": "from urllib import request;from zipfile import ZipFile;from io import BytesIO;from os import environ\nurl = 'https://raw.githubusercontent.com/HeydoubleU/BPM/main/client/BPM_client.zip'\nZipFile(BytesIO(request.urlopen(url).read())).extractall(path=environ[\"MAYA_APP_DIR\"]+'/scripts/BPM')\nimport BPM\nBPM.start(True)"
 }
