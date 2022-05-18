@@ -1,0 +1,17 @@
+{
+    "creator": "HeydoubleU",
+    "current_version": "1.0",
+    "open": false,
+    "packager_version": "0.2.2",
+    "versions": {
+        "1.0": {
+            "current": true,
+            "dependencies": [
+                [
+                    "rebel-pack",
+                    "0"
+                ]
+            ]
+        }
+    }
+}
