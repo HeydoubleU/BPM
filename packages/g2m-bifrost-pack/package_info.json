@@ -1,0 +1,12 @@
+{
+    "creator": "g2m_bifrost_pack",
+    "current_version": "0.1-beta",
+    "open": false,
+    "packager_version": "0.2.3",
+    "versions": {
+        "0.1-beta": {
+            "current": true,
+            "dependencies": []
+        }
+    }
+}
