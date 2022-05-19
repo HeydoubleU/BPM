@@ -1,0 +1,25 @@
+{
+    "creator": "HeydoubleU",
+    "current_version": "1.0",
+    "open": false,
+    "packager_version": "0.2.3",
+    "versions": {
+        "1.0": {
+            "current": true,
+            "dependencies": [
+                [
+                    "hw-utilities",
+                    "1"
+                ],
+                [
+                    "rebel-pack",
+                    "0"
+                ],
+                [
+                    "jiggle-solver",
+                    "0"
+                ]
+            ]
+        }
+    }
+}
